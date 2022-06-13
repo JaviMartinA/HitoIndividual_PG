@@ -1,0 +1,20 @@
+¿El mundo tiene 196 países? (1=si 2=no)
+2
+¿Cúantos mundiales de futbol tiene España?
+1
+¿Bill Gates fundó Microsoft? (1=si 2=no)
+1
+¿La capital de Colombia es Medellín? (1=si 2=no)
+2
+¿Apple creó el primer teléfono móvil? (1=si 2=no)
+2
+Horas máximas de una jornada laboral semanales
+40
+Año de la caída del Imperio Romano de Occidente
+476
+¿Cúantas patas tiene una araña?
+8
+¿Existen animales autótrofos? (1=si 2=no)
+2
+¿Cuántos Mundiales tiene Fernando Alonso?
+2

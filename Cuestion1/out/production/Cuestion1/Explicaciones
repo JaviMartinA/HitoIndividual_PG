@@ -1,0 +1,9 @@
+Tenemos una clase que vamos a llamar Vehículo, que es un concepto general que tienen todos los vehículos
+En ella añadiremos atributos que sabemos que van a tener todos independientemente del tipo.
+La clase Turismo hereda de Vehículo, con lo cual hereda sus atributos y sus métodos
+Por ejemplo, he añadido los atributos de ID, ruedas y puertas, pero también tiene los atributos de la clase Vehículo
+que son matricula, marca, y motor.
+Y el método heredado, lo hemos sobreescrito dándole un nuevo "sout"
+Java no permite la herencia múltiple, una clase no puede heredar de varias clases, pero si puede heredar de una clase
+e implementar de una "interface".
+Para mostrar ejemplo de overload, vamos a añadir una ciudad para que indique el vehículo esta circulando en una ciudad

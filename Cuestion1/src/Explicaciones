@@ -1,0 +1,15 @@
+Tenemos una clase que vamos a llamar Vehículo, que es un concepto general que tienen todos los vehículos
+En ella añadiremos atributos que sabemos que van a tener todos independientemente del tipo.
+La clase Turismo hereda de Vehículo, con lo cual hereda sus atributos y sus métodos
+Por ejemplo, he añadido los atributos de ID, ruedas y puertas, pero también tiene los atributos de la clase Vehículo
+que son matricula, marca, y motor.
+Y el método heredado, lo hemos sobreescrito dándole un nuevo "sout"
+Java no permite la herencia múltiple, una clase no puede heredar de varias clases, pero si puede heredar de una clase
+e implementar de una "interface".
+Para mostrar ejemplo de overload, vamos a añadir una ciudad para que indique el vehículo esta circulando en una ciudad
+Sobrecarga es el uso de un mismo método, pero con diferentes argumentos, ambos métodos tienen que retornar lo mismo,
+si el primero retorna un String, el segundo retornará otro String.
+La colección lista (ArrayList) es una manera lógica para trabajar con clases genéricas (podemos extraer e insertar elementos como quiera el usuario)
+La colección pila (Stack) es una manera muy parecida a ArrayList pero es una subclase de Vector y tiene otros métodos para extraer o implementar valores
+La colección cola (Queue) en cambio agrega siempre el primer valor y retira siempre el primer valor
+La colección tabla o conjunto no permiten duplicados
